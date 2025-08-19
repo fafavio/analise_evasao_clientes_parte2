@@ -1,7 +1,7 @@
 # 📊 Projeto de Machine Learning – Evasão de Clientes (Churn)
 ##  Nome do autor
 - Flávio Resende Ribeiro
-- 
+  
 ## 📌 Sobre o Projeto
 Este projeto analisa uma base de clientes de telecomunicações com o objetivo de **identificar fatores que influenciam a evasão (churn)**.  
 Foram aplicadas técnicas de **ciência de dados** e **machine learning** para prever quais clientes têm maior probabilidade de cancelar os serviços.
